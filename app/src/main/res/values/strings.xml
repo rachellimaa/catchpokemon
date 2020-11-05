@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">catch pokemon</string>
+    <string name="app_name">Catch Pokemon</string>
+    <string name="enter_with_path">Enter with path:</string>
+    <string name="path">Path</string>
+    <string name="ok">Ok</string>
+    <string name="message">Captured Pokémons</string>
 </resources>
