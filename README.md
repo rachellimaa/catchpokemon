@@ -24,3 +24,7 @@ Android(Kotlin)
 # IDE: 
 
 Android Studio 4.0.1
+
+# APK 
+
+https://github.com/rachellimaa/catchpokemon/blob/main/catchpokemon.apk
